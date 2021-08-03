@@ -52,3 +52,8 @@ time.
 constantly sync with the call stack and the garbage collector.
 - Garbage Collector frees up the memory heap whenever required. It uses Mark & Sweep
 algorithm to sweep off unnecessary stuffs from the code.
+
+
+## JavaScript Project-1
+
+- Color Flipper Project : Select Random color

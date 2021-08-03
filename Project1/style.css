@@ -1,0 +1,19 @@
+body {
+    background-color: grey;
+    text-align: center;
+  }
+  h2 {
+    font-family: verdana;
+    font-size: 2rem;
+    font-size: 100%;
+  
+  }
+  button {
+    color: red;
+    font-family: verdana;
+    font-size: 100%;
+  }
+  content {
+    max-width: 500px;
+    margin: auto;
+  }
